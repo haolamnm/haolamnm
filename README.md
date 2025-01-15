@@ -23,21 +23,26 @@
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haolamnm/haolamnm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haolamnm/haolamnm/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/haolamnm/haolamnm/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haolamnm/haolamnm/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haolamnm/haolamnm/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/haolamnm/haolamnm/output/github-snake.svg" />
+  </picture>
+</div>
 
 <br>
 <br>
 
 <div align="center">
-
-  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=haolamnm&theme=github-dark-blue&&card_width=500)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=haolamnm&theme=github-dark-blue&card_width=500" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=haolamnm&theme=default&card_width=500" />
+    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=haolamnm&theme=default&card_width=500" />
+  </picture>
 </div>
 
 ## 🌟 SUPPORT ME
