@@ -27,7 +27,11 @@
 
 <br>
 
-<!-- GitHub Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haolamnm/haolamnm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haolamnm/haolamnm/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/haolamnm/haolamnm/output/github-snake.svg" />
+</picture>
 
 <br>
 
@@ -39,10 +43,11 @@
 
 ## 🌟 SUPPORT ME
 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
+If you like what I do, maybe consider buying me a coffee 🥺👉👈. Your generosity will go toward funding my university tuition. Thanks!
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/haolamnm)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/haolamnm)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/haolamnm)
+[![GitHub Sponsor](https://img.shields.io/badge/GITHUB%20SPONSOR-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/haolamnm)
 
 ---
